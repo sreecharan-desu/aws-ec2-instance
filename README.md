@@ -1,6 +1,18 @@
-*my first deployment to aws*
----
+# aws-ec2-instance
 
+minimal express app used to practice deploying a node server on aws ec2.
 
-## Consistency & Discipline
-This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
+## stack
+
+node · express 5
+
+## run locally
+
+```bash
+npm install
+node index.js
+```
+
+## env
+
+none.
